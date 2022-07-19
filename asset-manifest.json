@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/MERN_APP_KIT/static/css/main.c1fb002d.chunk.css",
+    "main.js": "/MERN_APP_KIT/static/js/main.51739aa5.chunk.js",
+    "main.js.map": "/MERN_APP_KIT/static/js/main.51739aa5.chunk.js.map",
+    "runtime-main.js": "/MERN_APP_KIT/static/js/runtime-main.39e919b2.js",
+    "runtime-main.js.map": "/MERN_APP_KIT/static/js/runtime-main.39e919b2.js.map",
+    "static/css/2.c3bb4719.chunk.css": "/MERN_APP_KIT/static/css/2.c3bb4719.chunk.css",
+    "static/js/2.888ea593.chunk.js": "/MERN_APP_KIT/static/js/2.888ea593.chunk.js",
+    "static/js/2.888ea593.chunk.js.map": "/MERN_APP_KIT/static/js/2.888ea593.chunk.js.map",
+    "index.html": "/MERN_APP_KIT/index.html",
+    "precache-manifest.152e6d1e13b24e781b3eeea42556c2a1.js": "/MERN_APP_KIT/precache-manifest.152e6d1e13b24e781b3eeea42556c2a1.js",
+    "service-worker.js": "/MERN_APP_KIT/service-worker.js",
+    "static/css/2.c3bb4719.chunk.css.map": "/MERN_APP_KIT/static/css/2.c3bb4719.chunk.css.map",
+    "static/css/main.c1fb002d.chunk.css.map": "/MERN_APP_KIT/static/css/main.c1fb002d.chunk.css.map",
+    "static/js/2.888ea593.chunk.js.LICENSE.txt": "/MERN_APP_KIT/static/js/2.888ea593.chunk.js.LICENSE.txt",
+    "static/media/primereact.min.css": "/MERN_APP_KIT/static/media/line.567f5738.gif",
+    "static/media/covid19_response_icon.svg": "/MERN_APP_KIT/static/media/covid19_response_icon.ace353ab.svg",
+    "static/media/delete.png": "/MERN_APP_KIT/static/media/delete.cc9a2475.png",
+    "static/media/edit.png": "/MERN_APP_KIT/static/media/edit.1eec8b67.png",
+    "static/media/theme.css": "/MERN_APP_KIT/static/media/open-sans-v15-latin-regular.cffb686d.woff2",
+    "static/media/primeicons.css": "/MERN_APP_KIT/static/media/primeicons.e5e0e944.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39e919b2.js",
+    "static/css/2.c3bb4719.chunk.css",
+    "static/js/2.888ea593.chunk.js",
+    "static/css/main.c1fb002d.chunk.css",
+    "static/js/main.51739aa5.chunk.js"
+  ]
+}
