@@ -4,7 +4,7 @@ import { storeData, getUsers , getUsersById, dispDialog} from '../actions/index'
 import DisplayDetails from './displayDetails'
 import { Dialog } from 'primereact/dialog';
 import Loader from './loader'
-const URL = 'http://localhost:9000/userAPI/';
+const URL = 'https://rohith-utility-app.herokuapp.com/userAPI/';
 
 class UserDetails extends React.Component {
     constructor(props) {

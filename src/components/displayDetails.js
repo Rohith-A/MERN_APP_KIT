@@ -5,7 +5,7 @@ const edit = require('../assets/icons/edit.png');
 const deleteIcon = require('../assets/icons/delete.png');
 const viewIcon = require('../assets/icons/view.png');
 
-const URL = 'http://localhost:9000/userAPI/'
+const URL = 'https://rohith-utility-app.herokuapp.com/userAPI/'
 class DisplayDetails extends React.Component {
     constructor(props) {
         super(props)
